@@ -1378,22 +1378,10 @@ body.is-preload #bg:before {
 		-ms-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
 	transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out,
 		opacity 0.325s ease-in-out;
-	background-image: -moz-radial-gradient(
-		rgba(0, 0, 0, 0.25) 25%,
-		rgba(0, 0, 0, 0) 55%
-	);
-	background-image: -webkit-radial-gradient(
-		rgba(0, 0, 0, 0.25) 25%,
-		rgba(0, 0, 0, 0) 55%
-	);
-	background-image: -ms-radial-gradient(
-		rgba(0, 0, 0, 0.25) 25%,
-		rgba(0, 0, 0, 0) 55%
-	);
-	background-image: radial-gradient(
-		rgba(0, 0, 0, 0.25) 25%,
-		rgba(0, 0, 0, 0) 55%
-	);
+	background: radial-gradient(rgba(0, 0, 0, 0.474), rgba(76, 76, 76, 0.057));
+	filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.135));
+	border-radius: 20px;
+	padding: 20px;
 	max-width: 100%;
 	text-align: center;
 }
