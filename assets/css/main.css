@@ -1798,6 +1798,15 @@ body.is-preload #footer {
 	justify-items: center;
 }
 
+@media screen and (max-width: 800px) {
+	.devicon_container {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 25px;
+		justify-items: center;
+	}
+}
+
 .devicon_container div {
 	display: flex;
 	flex-direction: column;
@@ -1852,9 +1861,15 @@ body.is-preload #footer {
 	width: 500px;
 }
 
-@media screen and (max-width: 736px) {
+@media screen and (max-width: 850px) {
 	.project_img_container {
 		position: relative;
+	}
+
+	#projects span img {
+		width: 100%;
+		height: 500px;
+		object-fit: cover;
 	}
 
 	.project_info {
