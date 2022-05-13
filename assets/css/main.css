@@ -1818,15 +1818,6 @@ body.is-preload #footer {
 	border-radius: 5px;
 }
 
-.devicon_container div:hover {
-	color: rgb(0, 187, 255);
-}
-
-.devicon_container div:hover span {
-	font-size: 16px;
-	font-weight: 600;
-}
-
 .devicon_container div span {
 	text-align: center;
 	font-size: 14px;
@@ -1956,6 +1947,10 @@ body.is-preload #footer {
 
 .education_item img {
 	margin-right: 20px;
+	width: 50px;
+	height: 50px;
+	align-self: center;
+	justify-self: center;
 }
 
 .honors {
