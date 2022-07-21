@@ -8,15 +8,14 @@ You can find my live site [here](https://willkee.io).
 
 <br>
 
-<p>
-						I am in the last few weeks of the App Academy Online
-						software engineering boot camp. This has been an
-						incredible journey in which I have been inspired and
-						challenged like never before, in a 1000+ hour curriculum
-						over 24 weeks and with an acceptance rate of less than
-						5%. The 6 months in this program have only made me more
-						passionate about building applications out of code or
-						solving problems using technologies such as JavaScript,
+I am a recent graduate of a software engineering
+						bootcamp from App Academy. This has been an incredible
+						journey in which I have been inspired and challenged
+						like never before, in a 1000+ hour curriculum over 24
+						weeks and with an acceptance rate of less than 5%. The 6
+						months in this program have only made me more passionate
+						about building applications out of code or solving
+						problems using technologies such as JavaScript,
 						ReactJS/Redux, Express.js, and Python to name a few.
 					</p>
 					<p>
@@ -40,7 +39,6 @@ You can find my live site [here](https://willkee.io).
 						forward-thinking and innovative company in an industry
 						where there is always something new on the horizon, and
 						endless opportunities to learn.
-					</p>
 
 <br>
 
