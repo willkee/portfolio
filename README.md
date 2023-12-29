@@ -4,7 +4,7 @@
 
 <br>
 
-You can find my live site [here](https://willkee.io).
+You can find my live site [here](https://willkee.com).
 
 <br>
 
@@ -56,13 +56,8 @@ I am a skilled software engineer with a passion for building web applications an
 
 ## Education
 
-  <img align="center" src="https://assets-global.website-files.com/5dcc7f8c449e597ed83356b8/603820afd31232aab368ea6f_New%20Red-logo-emblem.png" width="50px"/>
   <span>&nbsp; App Academy, </span>
   <span>Software Engineering Bootcamp, 2021-2022</span>
-
 <br>
-<br>
-
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/en/b/b0/Western_Michigan_Broncos_%282021%29_logo.svg" width="50px"/>
   <span>&nbsp; Western Michigan University, </span>
   <span>Bachelor of Science degree, 2011-2015 (summa cum laude)</span>
